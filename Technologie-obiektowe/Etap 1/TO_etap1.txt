@@ -1,0 +1,30 @@
+Technologie obiektowe.
+
+1) Piotr Kaczmarczyk - kaczmarczyk9042@outlook.com - 1IZ21
+1) Przemysław Postrach - przemyslaw.postrach@hotmail.com - 1IZ21
+
+
+Temat: 12. Obiektowe bazy danych
+
+Spis technologii:
+1) PostgreSQL
+2) Siaqodb - Przemysław Postrach - https://github.com/morecraf/Siaqodb
+3) TaffyDB - Piotr Kaczmarczyk - https://github.com/typicaljoe/taffydb
+
+Etapy pracy:
+
+Etap 2 - instalacja i konfiguracja
+Etap 3 - projekt bazy danych
+Etap 4 - implementacja zaprojektowanej struktury bazy danych 
+Etap 5 - zapełnienie bazy danymi
+Etap 6 - przygotowanie zapytań potrzebnych do opisu teorii związanej z projektem
+Etap 7 - opis części teoretycznej 
+Etap 8 (zakończenie semestru) - oddanie pracy
+
+Tematem przewodnim naszych baz będzie: gospodarstwo domowe.
+
+
+Tematy innych projektów:
+Praca inżynierska Przemysław Postrach - "Smart Garden"
+Praca inżynierska Piotr Kaczmarczyk - "Kamizelka wspomagająca prace osób narażonych na czynniki zewnętzne"
+Projekt programowanie systemów rozproszonych - Rozproszony komiwojażer
